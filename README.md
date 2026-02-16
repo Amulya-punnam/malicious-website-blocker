@@ -89,7 +89,7 @@ Firewall-Application/
 
 ```
 git clone https://github.com/Amulya-punnam/malicious-website-blocker.git
-cd firewall-application
+cd malicious-website-blocker
 ```
 
 ### Step 2: Install Dependencies
